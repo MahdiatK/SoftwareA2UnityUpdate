@@ -79,6 +79,13 @@ The game focuses on an endless highway environment where the player must drive f
 
 # Highway Cops Update V1 - Mahdiat Khan
 
+<img width="275" height="192" alt="image" src="https://github.com/user-attachments/assets/e6738a22-547b-41bd-827d-08768715c8ec" />
+
+# BACKLOG
+
+<img width="795" height="555" alt="image" src="https://github.com/user-attachments/assets/2a549bd5-67f9-4c2e-b36d-657deebc3833" />
+
+
 
 
 
