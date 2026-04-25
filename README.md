@@ -85,6 +85,33 @@ The game focuses on an endless highway environment where the player must drive f
 
 <img width="795" height="555" alt="image" src="https://github.com/user-attachments/assets/2a549bd5-67f9-4c2e-b36d-657deebc3833" />
 
+# DEVELOPMENT UPDATES
+
+<img width="697" height="484" alt="image" src="https://github.com/user-attachments/assets/f539ad1d-8c6d-48cd-bfc9-207a0e55bb99" />
+
+----------------------------------------------------------------------------------------------------------------------------------
+
+<img width="689" height="154" alt="image" src="https://github.com/user-attachments/assets/ce272583-37f4-4a5f-80c4-0e8506b8a13e" />
+
+
+# DEVELOPMENT PLANNING
+<img width="685" height="484" alt="image" src="https://github.com/user-attachments/assets/5281938f-d261-4959-a764-168a762209a2" />
+
+# METHODOLOGY
+<img width="311" height="271" alt="image" src="https://github.com/user-attachments/assets/5836e5ca-554c-48f7-84cc-c66a29e20481" />
+
+# BURNDOWN CHART
+<img width="240" height="200" alt="image" src="https://github.com/user-attachments/assets/55fb6828-fd69-4915-80ef-a569b6996ce5" />
+
+# MEETING LOGS AND REFLECTIONS
+<img width="487" height="799" alt="image" src="https://github.com/user-attachments/assets/13649122-2024-4783-9081-83dee0113f28" />
+
+# 
+
+
+
+
+
 
 
 
