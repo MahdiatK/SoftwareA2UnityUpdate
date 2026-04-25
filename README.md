@@ -1,4 +1,4 @@
-# Highway Cops Base - Mahdiat Khan
+# Highway Cops Base Game (Scroll down for update) - Mahdiat Khan
 
 # INTRODUCTION
 
